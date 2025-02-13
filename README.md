@@ -15,10 +15,6 @@ I'm a Master's student in Computer Engineering at the University of Bologna, and
     <img src="https://img.shields.io/badge/Italian-0082C8?style=flat&logo=flag-icons&logoColor=white" alt="Italian" />
     <img src="https://img.shields.io/badge/English-FF4500?style=flat&logo=flag-icons&logoColor=white" alt="English" />
     <img src="https://img.shields.io/badge/French-005EB8?style=flat&logo=flag-icons&logoColor=white" alt="French" />
-    <img src="https://img.shields.io/badge/Italian-0082C8?style=flat&logo=flag-icons&logoColor=white" alt="Italian" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png" alt="English" width="30" height="20"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png" alt="French" width="30" height="20"/>
-
 </p>
 
 ### Stats
