@@ -2,6 +2,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=compact&theme=radical" alt="Top Languages" width="350" />
+</div>
 <!--
 **federicadigiaimo/federicadigiaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
