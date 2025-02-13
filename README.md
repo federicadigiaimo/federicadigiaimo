@@ -1,6 +1,5 @@
 ## Hello World!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!--
