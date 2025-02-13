@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="500" />
+    <img src="https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="470" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=compact&theme=radical" alt="Top Languages" width="350" />
 </div>
 <!--
