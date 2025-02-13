@@ -1,5 +1,7 @@
 ## Hello World!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=normal&theme=vue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!--
 **federicadigiaimo/federicadigiaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
