@@ -1,4 +1,5 @@
 ## Hello World!
+https://badgen.net/badge/:subject/:status/:color?icon=github
 
 <!--
 **federicadigiaimo/federicadigiaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
