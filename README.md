@@ -18,19 +18,6 @@ I'm a Master's student in Computer Engineering at the University of Bologna, and
 
     
 </p>
-
-### 🌍 Spoken languages
-<p>
-    <img src="https://img.shields.io/badge/Italian-0082C8?style=flat&logo=flag-icons&logoColor=white" alt="Italian" />
-    <img src="https://img.shields.io/badge/English-FF4500?style=flat&logo=flag-icons&logoColor=white" alt="English" />
-    <img src="https://img.shields.io/badge/French-005EB8?style=flat&logo=flag-icons&logoColor=white" alt="French" />
-</p>
-
-### Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicadigiaimo&layout=compact&theme=radical" alt="Top Languages" width="350" />
-</div>
 <!--
 **federicadigiaimo/federicadigiaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
