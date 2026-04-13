@@ -1,5 +1,5 @@
 ## Hello World!
-I'm a Master's student in Computer Engineering at the University of Bologna, and I am passionate about game design. 🎮✨
+I'm a Master's graduate in Computer Engineering at the University of Bologna and I am passionate about game design. 🎮✨
 
 ### 🛠️ Programming languages
 <p>
@@ -14,9 +14,7 @@ I'm a Master's student in Computer Engineering at the University of Bologna, and
     <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
-
-    
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" /> 
 </p>
 <!--
 **federicadigiaimo/federicadigiaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
