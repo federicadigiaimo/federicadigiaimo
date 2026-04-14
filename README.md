@@ -6,7 +6,8 @@ I'm a Master's graduate in Computer Engineering at the University of Bologna and
     <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat&logo=opengl&logoColor=white" alt="GLSL" />
+    <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=5586A4" />
+    <img src="https://img.shields.io/badge/GLSL-H6491D?style=flat-square&logo=opengl&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
