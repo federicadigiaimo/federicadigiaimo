@@ -27,4 +27,4 @@ I'm a Master's graduate in Computer Engineering at the University of Bologna and
 </p>
 
 ### 📊 My GitHub Stats
-![Tuo Nome Github Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&theme=tokyonight)
+![Federica Di Giaimo Github Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&theme=tokyonight)
