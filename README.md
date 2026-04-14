@@ -25,6 +25,3 @@ I'm a Master's graduate in Computer Engineering at the University of Bologna and
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender" />
 </p>
-
-### 📊 My GitHub Stats
-![Federica Di Giaimo Github Stats](https://github-readme-stats.vercel.app/api?username=federicadigiaimo&show_icons=true&theme=tokyonight)
