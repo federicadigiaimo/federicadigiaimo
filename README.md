@@ -19,7 +19,7 @@ I'm a Master's graduate in Computer Engineering at the University of Bologna and
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" /> 
 </p>
 
-### 🎮 Game Engines & Creative Tools
+### 🎮 Game Engines & Tools
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal" />
